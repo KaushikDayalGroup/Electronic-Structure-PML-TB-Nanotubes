@@ -1,0 +1,6632 @@
+1	5	2	1	51
+
+-0.361912	0
+3.69112
+0.680381	-0.192574	0.69734	-0.117102	
+7.98405
+0.702951	0.0765608	-0.688356	-0.161751	
+-0.347435	0
+3.68421
+0.680402	-0.192502	0.696819	-0.120164	
+8.00912
+0.701308	0.0903823	-0.685857	-0.172042	
+-0.332959	0
+3.67757
+0.68042	-0.192437	0.696284	-0.123225	
+8.03346
+0.702622	0.0795235	-0.689192	-0.158153	
+-0.318482	0
+3.67121
+0.680436	-0.192381	0.695736	-0.126286	
+8.05703
+0.70261	0.0796324	-0.689912	-0.154981	
+-0.304006	0
+3.66513
+0.68045	-0.192332	0.695174	-0.129343	
+8.0798
+0.70244	0.0811136	-0.690323	-0.15314	
+-0.289529	0
+3.65933
+0.680462	-0.19229	0.694598	-0.132399	
+8.10175
+0.702585	0.0798508	-0.691318	-0.148585	
+-0.275053	0
+3.65382
+0.680472	-0.192255	0.69401	-0.13545	
+8.12284
+0.702415	0.0813321	-0.691718	-0.146713	
+-0.260577	0
+3.64858
+0.680479	-0.192228	0.693408	-0.138498	
+8.14304
+0.702242	0.0828131	-0.692115	-0.144828	
+-0.2461	0
+3.64362
+0.680485	-0.192206	0.692793	-0.141542	
+8.16234
+0.702548	0.0801787	-0.693335	-0.13887	
+-0.231624	0
+3.63894
+0.68049	-0.192191	0.692165	-0.144581	
+8.18069
+0.702691	0.0789157	-0.694245	-0.134247	
+-0.217147	0
+3.63455
+0.680492	-0.192181	0.691524	-0.147615	
+8.19807
+0.702523	0.0803971	-0.694614	-0.132322	
+-0.202671	0
+3.63043
+0.680494	-0.192177	0.690871	-0.150644	
+8.21446
+0.702819	0.0777612	-0.695732	-0.126313	
+-0.188194	0
+3.6266
+0.680493	-0.192178	0.690205	-0.153667	
+8.22984
+0.702807	0.0778698	-0.696324	-0.123005	
+-0.173718	0
+3.62305
+0.680492	-0.192183	0.689526	-0.156684	
+8.24417
+0.702326	0.0820946	-0.696189	-0.123768	
+-0.159241	0
+3.61979
+0.680489	-0.192192	0.688835	-0.159695	
+8.25744
+0.702473	0.0808305	-0.697006	-0.119081	
+-0.144765	0
+3.61681
+0.680486	-0.192204	0.688132	-0.162701	
+8.26963
+0.702617	0.0795655	-0.697793	-0.114382	
+-0.130288	0
+3.61411
+0.680482	-0.19222	0.687416	-0.165699	
+8.28072
+0.702605	0.0796721	-0.698333	-0.111034	
+-0.115812	0
+3.61169
+0.680477	-0.192237	0.686687	-0.168692	
+8.29069
+0.702748	0.0784054	-0.699068	-0.106313	
+-0.101335	0
+3.60956
+0.680471	-0.192257	0.685947	-0.171678	
+8.29952
+0.702264	0.0826264	-0.698956	-0.107045	
+-0.0868588	0
+3.60771
+0.680465	-0.192278	0.685194	-0.174657	
+8.30721
+0.702491	0.0806724	-0.699765	-0.101625	
+-0.0723824	0
+3.60615
+0.680459	-0.1923	0.68443	-0.177631	
+8.31373
+0.7024	0.081461	-0.700151	-0.0989303	
+-0.0579059	0
+3.60487
+0.680453	-0.192322	0.683653	-0.180597	
+8.31909
+0.702388	0.0815622	-0.700621	-0.0955455	
+-0.0434294	0
+3.60388
+0.680446	-0.192344	0.682864	-0.183558	
+8.32326
+0.702297	0.0823478	-0.700984	-0.0928392	
+-0.0289529	0
+3.60316
+0.68044	-0.192365	0.682063	-0.186512	
+8.32624
+0.702365	0.08176	-0.701513	-0.0887581	
+-0.0144765	0
+3.60274
+0.680435	-0.192384	0.68125	-0.189459	
+8.32804
+0.702354	0.0818563	-0.701935	-0.0853565	
+0	0
+3.6026
+0.68043	-0.192402	0.680425	-0.1924	
+8.32863
+0.702343	0.0819507	-0.702341	-0.0819504	
+0.0144765	0
+3.60274
+0.680426	-0.192417	0.679588	-0.195336	
+8.32804
+0.702332	0.0820429	-0.70273	-0.0785401	
+0.0289529	0
+3.60316
+0.680423	-0.192428	0.67874	-0.198264	
+8.32624
+0.702322	0.0821327	-0.703103	-0.0751264	
+0.0434294	0
+3.60388
+0.68042	-0.192436	0.677879	-0.201187	
+8.32326
+0.702312	0.0822201	-0.70346	-0.0717095	
+0.0579059	0
+3.60487
+0.680419	-0.192439	0.677007	-0.204104	
+8.31909
+0.702254	0.082716	-0.70376	-0.0687021	
+0.0723824	0
+3.60615
+0.68042	-0.192437	0.676122	-0.207014	
+8.31373
+0.702332	0.0820437	-0.704155	-0.0645246	
+0.0868588	0
+3.60771
+0.680422	-0.19243	0.675226	-0.209919	
+8.30721
+0.702229	0.0829226	-0.704391	-0.0619039	
+0.101335	0
+3.60956
+0.680426	-0.192417	0.674318	-0.212818	
+8.29952
+0.702591	0.079797	-0.704942	-0.0552678	
+0.115812	0
+3.61169
+0.680431	-0.192397	0.673398	-0.215711	
+8.29069
+0.702266	0.0826128	-0.704995	-0.0545961	
+0.130288	0
+3.61411
+0.680439	-0.19237	0.672467	-0.218597	
+8.28072
+0.702258	0.0826812	-0.705251	-0.0511712	
+0.144765	0
+3.61681
+0.680449	-0.192336	0.671524	-0.221478	
+8.26963
+0.702087	0.0841171	-0.705397	-0.0491244	
+0.159241	0
+3.61979
+0.680461	-0.192294	0.670569	-0.224353	
+8.25744
+0.701575	0.0882897	-0.705347	-0.0498349	
+0.173718	0
+3.62305
+0.680475	-0.192243	0.669602	-0.227222	
+8.24417
+0.702236	0.0828623	-0.705922	-0.0409009	
+0.188194	0
+3.6266
+0.680492	-0.192183	0.668624	-0.230084	
+8.22984
+0.70223	0.0829141	-0.706111	-0.0374809	
+0.202671	0
+3.63043
+0.680512	-0.192113	0.667634	-0.23294	
+8.21446
+0.702225	0.0829612	-0.706284	-0.0340634	
+0.217147	0
+3.63455
+0.680534	-0.192034	0.666633	-0.23579	
+8.19807
+0.702111	0.0839178	-0.7064	-0.031569	
+0.231624	0
+3.63894
+0.680559	-0.191945	0.66562	-0.238633	
+8.18069
+0.702052	0.0844122	-0.706526	-0.0286188	
+0.2461	0
+3.64362
+0.680587	-0.191845	0.664597	-0.241469	
+8.16234
+0.700828	0.0940335	-0.706245	-0.0348709	
+0.260577	0
+3.64858
+0.680619	-0.191734	0.663562	-0.244298	
+8.14304
+0.702208	0.0830997	-0.70681	-0.0204321	
+0.275053	0
+3.65382
+0.680653	-0.191612	0.662516	-0.24712	
+8.12284
+0.702206	0.0831209	-0.7069	-0.0170371	
+0.289529	0
+3.65933
+0.680691	-0.191479	0.66146	-0.249934	
+8.10175
+0.702204	0.0831364	-0.706974	-0.0136485	
+0.304006	0
+3.66513
+0.680731	-0.191334	0.660393	-0.252739	
+8.0798
+0.701873	0.0858884	-0.706985	-0.013029	
+0.318482	0
+3.67121
+0.680775	-0.191177	0.659316	-0.255536	
+8.05703
+0.702522	0.0804062	-0.707093	-0.00413203	
+0.332959	0
+3.67757
+0.680823	-0.191008	0.658229	-0.258324	
+8.03346
+0.702039	0.0845186	-0.707088	-0.00491072	
+0.347435	0
+3.68421
+0.680873	-0.190827	0.657131	-0.261103	
+8.00912
+0.701874	0.0858809	-0.707099	-0.00293712	
+0.361912	0
+3.69112
+0.680928	-0.190634	0.656025	-0.263871	
+7.98405
+0.701535	0.0886068	-0.707101	-0.00235508	
+-0.361912	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	1
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	2
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	3
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	4
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	5
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	6
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	7
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	8
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	9
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	10
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	11
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	12
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	13
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	14
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	15
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	16
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	17
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	18
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	19
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	20
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	21
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	22
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	23
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	24
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.361912	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.347435	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.332959	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.318482	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.304006	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.289529	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.275053	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.260577	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.2461	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.231624	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.217147	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.202671	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.188194	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.173718	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.159241	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.144765	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.130288	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.115812	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.101335	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0868588	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0723824	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0579059	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0434294	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0289529	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+-0.0144765	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0144765	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0289529	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0434294	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0579059	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0723824	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.0868588	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.101335	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.115812	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.130288	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.144765	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.159241	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.173718	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.188194	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.202671	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.217147	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.231624	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.2461	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.260577	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.275053	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.289529	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.304006	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.318482	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.332959	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.347435	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
+0.361912	25
+0
+-nan	-nan	-nan	-nan	
+0
+-nan	-nan	-nan	-nan	
